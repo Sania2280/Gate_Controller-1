@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Cmake/cmake-3.30.0-windows-x86_64/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+C:/Users/HP GAMING/Desktop/GateController/CMakeLists.txt
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/3.30.0/CMakeCCompiler.cmake
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/3.30.0/CMakeCXXCompiler.cmake
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/3.30.0/CMakeRCCompiler.cmake
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/3.30.0/CMakeSystem.cmake

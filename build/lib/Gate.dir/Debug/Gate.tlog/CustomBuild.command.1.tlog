@@ -1,0 +1,10 @@
+^C:\USERS\HP GAMING\DESKTOP\GATECONTROLLER\LIB\CMAKELISTS.TXT
+setlocal
+C:\Cmake\cmake-3.30.0-windows-x86_64\cmake-3.30.0-windows-x86_64\bin\cmake.exe "-SC:/Users/HP GAMING/Desktop/GateController" "-BC:/Users/HP GAMING/Desktop/GateController/build" --check-stamp-file "C:/Users/HP GAMING/Desktop/GateController/build/lib/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\HP GAMING\DESKTOP\GATECONTROLLER\BUILD\CMAKEFILES\295ACD8FC0BF15A7FD56D1525DC2E427\GENERATE.STAMP.RULE
+setlocal
+C:\Cmake\cmake-3.30.0-windows-x86_64\cmake-3.30.0-windows-x86_64\bin\cmake.exe "-SC:/Users/HP GAMING/Desktop/GateController" "-BC:/Users/HP GAMING/Desktop/GateController/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/HP GAMING/Desktop/GateController/build/MyGate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

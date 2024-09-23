@@ -1,0 +1,5 @@
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/Gate_Controller.dir
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP GAMING/Desktop/GateController/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/HP GAMING/Desktop/GateController/build/lib/CMakeFiles/Gate.dir
+C:/Users/HP GAMING/Desktop/GateController/build/lib/CMakeFiles/ALL_BUILD.dir
